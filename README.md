@@ -7,4 +7,4 @@ and close it by pressing the esc.
 code by arturfriedrich ( https://github.com/arturfriedrich )
 inspiration by atibyte ( https://github.com/totex )
 
-you need to install pygame to this program by type in "pip install pygame" in the cmd window
+you need to install pygame to this program with "pip install pygame"
